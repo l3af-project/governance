@@ -1,0 +1,7 @@
+# L3AF Project Code of Conduct
+
+The L3AF Project encourages all contributors and users to be welcoming, inclusive, and supportive. We do not condone disrespectful or rude behaviour of any sort.
+
+Please read the [LF Projects Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) before participating in the L3AF Project community. Everyone who participates in the L3AF Project and its community spaces (GitHub, Slack, mailing list, in person, and otherwise) agrees to abide by this [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/).
+
+To report incidents or to appeal reports of incidents, send email to the Manager of LF Projects, Mike Dolan (manager@lfprojects.org). Please include any available relevant information, including links to any publicly accessible material relating to the matter. Every effort will be taken to ensure a safe and collegial environment in which to collaborate on matters relating to the L3AF Project. In order to protect the community, L3AF reserves the right to take appropriate action, potentially including the removal of an individual from any and all participation in the project. L3AF will work towards an equitable resolution in the event of a misunderstanding.
