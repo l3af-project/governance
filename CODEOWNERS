@@ -1,0 +1,11 @@
+# Each line is a file pattern followed by one or more owners.
+# Refer to https://help.github.com/en/articles/about-code-owners
+
+# Order is important; the last matching pattern takes the most
+# precedence. Try to keep at least two owners per pattern.
+
+# These owners will be the default owners for everything in the repo.
+# Unless a later match takes precedence, they will be requested for
+# review when someone opens a pull request.
+# Initial list: TSC as of March 2022 + VMB 
+* @vmbrasseur @dalalkaran @dthaler @erictice @sanfern
