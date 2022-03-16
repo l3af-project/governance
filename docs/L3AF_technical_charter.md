@@ -71,9 +71,9 @@ committers, maintainers, and other technical positions) and other participants i
 ## 4. Compliance with Policies
 
 <ol type="a">
-   <li>This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects including, without limitation the [policies](https://lfprojects.org/policies/).</li>
+   <li>This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects including, without limitation the policies listed at https://lfprojects.org/policies/.</li>
 
-   <li>The TSC may adopt a code of conduct (“CoC”) for the Project, which is subject to approval by the Series Manager. In the event that a Project-specific CoC has not been approved, the LF Projects [Code of Conduct](https://lfprojects.org/policies) will apply for all Collaborators in the Project.</li>
+   <li>The TSC may adopt a code of conduct (“CoC”) for the Project, which is subject to approval by the Series Manager. In the event that a Project-specific CoC has not been approved, the LF Projects policies listed at https://lfprojects.org/policies/ will apply for all Collaborators in the Project.</li>
    <li>When amending or adopting any policy applicable to the Project, LF Projects will publish such policy, as to be amended or adopted, on its web site at least 30 days prior to such policy taking effect; provided, however, that in the case of any amendment of the Trademark Policy or Terms of Use of LF Projects, any such amendment is effective upon publication on LF Project’s website.</li>
    <li>All Collaborators must allow open participation from any individual or organization meeting the requirements for contributing under this Charter and any policies adopted for all Collaborators by the TSC, regardless of competitive interests. Put another way, the Project community must not seek to exclude any participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Collaborators in the Project community.</li>
    <li>The Project will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Project discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to the Series Manager.</li>
@@ -112,8 +112,8 @@ committers, maintainers, and other technical positions) and other participants i
             </ol>
          </li>
          <li>All outbound code will be made available under the applicable Project License;</li>
-         <li>All new inbound code contributions must also be accompanied by a Developer Certificate of Origin(http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;</li>
-         <li>Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/).
+         <li>All new inbound code contributions must also be accompanied by a Developer Certificate of Origin (http://developercertificate.org) sign-off in the source code system that is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not self-employed, their employer to the applicable license;</li>
+         <li>Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/).
          <li>The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project. Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project.</li>
       </ol>
    </li>
