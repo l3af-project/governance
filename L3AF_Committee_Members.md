@@ -18,8 +18,8 @@ This page is the record of truth on the current L3AF representatives for the com
 |--------------|---------|
 | Microsoft | Daniel Havey |
 
-# LFN Technical Advisory Council (TSC)
-[Information about the TSC ](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=327908)
+# LFN Technical Advisory Council (TAC)
+[Information about the TAC](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=327908)
 
 | Company Name | Liaison |
 |--------------|---------|
