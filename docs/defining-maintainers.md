@@ -36,7 +36,7 @@ To add a maintainer to a L3AF project, please follow these steps:
 1. Create a pull request (PR) in each relevant repo, making the necessary change to the `CODEOWNERS` file
 1. Add an item about the maintainer change to [the agenda for the next L3AF TSC meeting](https://wiki.lfnetworking.org/display/L3AF/Meeting+Minutes?src=contextnavpagetreemode)
 1. Discuss the change in the meeting
-1. If the TSC approves (by majority vote of all present [TSC members or their proxies](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=62491327)), merge the PR. If they do not approve, close the PR without merging or continue the discussion with the TSC as necessary. 
+1. If the TSC approves (by majority vote of all present [TSC members or their proxies](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=62491327)), merge the PR. If they do not approve, close the PR without merging or continue the discussion with the TSC as necessary.
 
 **NO MAINTAINER CHANGES ARE VALID WITHOUT TSC APPROVAL**
 
