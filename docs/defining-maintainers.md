@@ -11,7 +11,8 @@ The contents of this document still hold true in that case (and if you find that
 
 ## Who are the current maintainers?
 
-The maintainers for each L3AF project are contained in the `CODEOWNERS` file in the respective repositor(y|ies). Maintainers listed in the `CODEOWNERS` file for the purpose of this document are considered synonymous with committers.
+The maintainers for each L3AF project are contained in the `CODEOWNERS` file in the respective repositor(y|ies).
+Maintainers listed in the `CODEOWNERS` file for the purpose of this document are considered synonymous with committers.
 
 ## Removing a maintainer from a project
 
