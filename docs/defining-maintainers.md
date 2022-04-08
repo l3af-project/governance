@@ -4,14 +4,15 @@
 
 You can see all of the repositories associated with L3AF by navigating to the top-level [L3AF organization on GitHub](https://github.com/l3af-project).
 
-Typically a L3AF project is represented by a single repository (repo). 
-For instance, the Specs and Architecture project is represented in the [l3af-arch](https://github.com/l3af-project/l3af-arch) repo. 
-In the future it's possible that a single project may require multiple repos. 
+Typically a L3AF project is represented by a single repository (repo).
+For instance, the Specs and Architecture project is represented in the [l3af-arch](https://github.com/l3af-project/l3af-arch) repo.
+In the future it's possible that a single project may require multiple repos.
 The contents of this document still hold true in that case (and if you find that's wrong, please [open an issue](https://github.com/l3af-project/governance/issues/new/choose) and we'll fix it).
 
 ## Who are the current maintainers?
 
 The maintainers for each L3AF project are contained in the `CODEOWNERS` file in the respective repositor(y|ies).
+Maintainers listed in the `CODEOWNERS` file for the purpose of this document are considered synonymous with committers.
 
 ## Removing a maintainer from a project
 
@@ -27,9 +28,9 @@ There are many reasons why a maintainer may need to leave a project. In the case
 
 ## Adding a maintainer for a project
 
-All projects should ideally have multiple maintainers (as listed in the relevant `CODEOWNERS` file(s)). 
-There currently are no upper limits set on the number of maintainers for a L3AF project. 
-A project will have as many maintainers as it sees are useful for the functioning of the project and its community. 
+All projects should ideally have multiple maintainers (as listed in the relevant `CODEOWNERS` file(s)).
+There currently are no upper limits set on the number of maintainers for a L3AF project.
+A project will have as many maintainers as it sees are useful for the functioning of the project and its community.
 To add a maintainer to a L3AF project, please follow these steps:
 
 1. Open an issue in the appropriate repo(s) describing the necessary change
