@@ -1,6 +1,6 @@
 # Adding projects/repositories to the l3af-project organisation
 
-This document outlines the process for adding a new project to the [l3af-project GitHub organisation](https://github.com/l3af-project). This is intended to be an initial and lightweight process which can be changed and expanded later as needed. If changes _are_ needed, please [open an issue in the governance repo](https://github.com/l3af-project/governance/issues/new) then add the issue to the agenda for a TSC meeting.
+This document outlines the process for adding a new project to the [l3af-project GitHub organisation](https://github.com/l3af-project). This is intended to be an initial and lightweight process which can be changed and expanded later as needed. If changes _are_ needed, please [open an issue in the governance repo](https://github.com/l3af-project/governance/issues/new) then add the issue to the [agenda for a TSC meeting](https://wiki.lfnetworking.org/display/L3AF/Meeting+Minutes).
 
 ## Definitions, constraints, etc.
 
@@ -14,5 +14,5 @@ All L3AF repos must be approved and added by the Technical Steering Committee (T
 
 1. Ask TSC for repo
     * Include list of committers for the repo
-1. TSC approves (or denies; in which case, duh, this process ends)
+1. TSC approves (or denies; in which case this process ends)
 1. TSC member (or someone w/approved access) creates repo, adds CODEOWNERS file, sets up team w/same members as CODEOWNERS, adds barebones README.md
