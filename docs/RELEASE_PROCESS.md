@@ -4,7 +4,7 @@ This section describes the release processes for tracking, preparing, and creati
 
 ## Active Development
 
-Active development is happening on the `main` branch, and a new version can be released from it every 10-12 weeks.
+Active development is happening on the `main` branch and the target is to release a new version approximately every 6 months.
 
 ## Release Tracking
 
@@ -25,7 +25,7 @@ Stable releases of L3AF include:
 
 * Maintenance window (any version released in the last 6 to 12 months).
 * Stability fixes backported from the `main` branch (anything that can result in a crash).
-* Bugfixes, deemed worthwhile by the maintainers.
+* Bugfixes deemed worthwhile by the maintainers.
 
 ### Backports
 
@@ -37,5 +37,5 @@ The process of backporting can consist of the following steps:
 
 ### Release Management
 
-Release managers of stable releases are responsible for approving and merging backports, tagging stable releases 
+Release managers of stable releases are responsible for approving and merging backports, tagging stable releases,
 and sending announcements about them.
