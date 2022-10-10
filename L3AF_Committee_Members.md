@@ -24,3 +24,8 @@ This page is the record of truth on the current L3AF representatives for the com
 | Company Name | Liaison |
 |--------------|---------|
 | Walmart | Santhosh Fernandes |
+
+# L3AF Release Manager(s)
+| Company Name | Primary | Secondary |
+|--------------|---------|-----------|
+| Walmart | Dhivya Reddy | Santhosh Fernandes |
