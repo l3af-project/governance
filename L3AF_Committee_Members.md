@@ -7,9 +7,8 @@ This page is the record of truth on the current L3AF representatives for the com
 |Company Name | TSC Representative | TSC Alternate Representative | Role |
 |-------------|--------------------|------------------------------|------|
 | Walmart | Jason Niesz | Meni Hillel | TSC Member |
-| Walmart | Santhosh Fernandes | Nitin K. Taur | TSC Member |
-| Microsoft | Dave Thaler | Steve Laughman | TSC Member |
-| Wipro | Eric Tice |  | TSC Member |
+| Walmart | Santhosh Fernandes | Karan Dalal | TSC Member |
+| Microsoft | Dave Thaler | Binoj Rajan | TSC Member |
 
 # LFN Marketing Advisory Council (MAC)
 [Information about the MAC](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=327912)
