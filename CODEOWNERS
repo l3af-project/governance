@@ -8,4 +8,4 @@
 # Unless a later match takes precedence, they will be requested for
 # review when someone opens a pull request.
 # Initial list: TSC as of March 2022 + VMB 
-* @vmbrasseur @jniesz @dthaler @erictice @sanfern @dalalkaran @binojrajan
+* @jniesz @sanfern @dalalkaran
