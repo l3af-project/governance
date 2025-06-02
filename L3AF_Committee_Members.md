@@ -6,16 +6,9 @@ This page is the record of truth on the current L3AF representatives for the com
 
 | Company Name | TSC Representative | TSC Alternate Representative | Role |
 |--------------|--------------------|------------------------------|------|
-| Walmart      | Jason Niesz | Meni Hillel | TSC Member |
-| Walmart      | Santhosh Fernandes | Karan Dalal | TSC Member |
-| open         |  | |  |
-
-# LFN Marketing Advisory Council (MAC)
-[Information about the MAC](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=327912)
-
-| Company Name | Liaison |
-|--------------|---------|
-| open         |  |
+| Walmart      | Jason Niesz | Pat Moroney                  | TSC Member |
+| Walmart      | Santhosh Fernandes | Karan Dalal                  | TSC Member |
+| open         |  |                              |  |
 
 # LFN Technical Advisory Council (TAC)
 [Information about the TAC](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=327908)
