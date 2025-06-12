@@ -8,7 +8,7 @@ This page is the record of truth on the current L3AF representatives for the com
 |--------------|--------------------|------------------------------|------|
 | Walmart      | Jason Niesz | Pat Moroney                  | TSC Member |
 | Walmart      | Santhosh Fernandes | Karan Dalal                  | TSC Member |
-| open         |  |                              |  |
+| NgCore       | Shankar Malik      |                              | TSC Member |
 
 # LFN Technical Advisory Council (TAC)
 [Information about the TAC](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=327908)
